@@ -21,35 +21,24 @@ Camera ready:	        month-day, 2019
 
 
 ## Program Committee
-Marco Gerosa - Northern Arizona University
 
-Regina Hebig - University of Gothenburg
-
-David Lo - Singapore Management University
-
-Josh Nichols - GitHub
-
-Chris Parnin - North Carolina State University
-
-Riccardo Scandariato - University of Gothenburg
-
-Lionel Seinturier - University of Lille & Inria Lille
-
-Igor Steinmacher - Northern Arizona University
-
-Margaret-Anne Storey - University of Victoria
-
-Xin Xia - Monash University
-
-Zhenchang Xing - Australian National University
-
-Alexey Zagalsky - University of Victoria
-
-Martin Monperrus - KTH Royal Institute of Tech-nology
+Marco Gerosa - Northern Arizona University <br>
+Regina Hebig - University of Gothenburg <br>
+David Lo - Singapore Management University <br>
+Josh Nichols - GitHub <br>
+Chris Parnin - North Carolina State University <br>
+Riccardo Scandariato - University of Gothenburg <br>
+Lionel Seinturier - University of Lille & Inria Lille <br>
+Igor Steinmacher - Northern Arizona University <br>
+Margaret-Anne Storey - University of Victoria <br>
+Xin Xia - Monash University <br>
+Zhenchang Xing - Australian National University <br>
+Alexey Zagalsky - University of Victoria <br>
+Martin Monperrus - KTH Royal Institute of Technology
 
 ## Organizers
-Emad Shihab — Concordia University
 
+Emad Shihab — Concordia University <br>
 Stefan Wagner– University of Stuttgart 
 
 
