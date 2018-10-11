@@ -29,6 +29,11 @@ Papers due:	            month-day, 2019 <br>
 Author notification:	month-day, 2019 <br>
 Camera ready:	        month-day, 2019 <br>
 
+## **Organizers**
+
+Emad Shihab — Concordia University <br>
+Stefan Wagner– University of Stuttgart 
+
 ## **Program Committee**
 
 Marco Gerosa - Northern Arizona University <br>
@@ -44,8 +49,3 @@ Xin Xia - Monash University <br>
 Zhenchang Xing - Australian National University <br>
 Alexey Zagalsky - University of Victoria <br>
 Martin Monperrus - KTH Royal Institute of Technology
-
-## **Organizers**
-
-Emad Shihab — Concordia University <br>
-Stefan Wagner– University of Stuttgart 
