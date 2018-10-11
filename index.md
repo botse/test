@@ -8,8 +8,7 @@ May xx, 2019, Montreal, Canada. In conjunction with ICSE 2019.
 
 </p>
 
-<h1> This is an H1 <h1>
-<h2> This is an H2 <h2>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/botse/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
