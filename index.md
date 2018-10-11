@@ -3,9 +3,9 @@
 <h2> <b> Call for Papers <br>
 International Workshop on Bots in Software Engineering <br>
 (BotSE) </b> </h2> 
-</div>
 May xx, 2019, Montreal, Canada. In conjunction with ICSE 2019.<br>
 <a href="https://botse.github.io/2018/">https://botse.github.io/2018/</a>
+</div>
 
 Bots (short for software robots) are software applications that perform often repetitive or simple tasks. In particular, social and chat bots interacting with humans are a recent research topic. Similarly, bots can be used to automate many tasks that are performed by software practitioners and teams in their day-to-day work. Recent work argue that bots can save de-velopers' time and significantly increase productivity. Therefore, the goal of this one-day workshop is to bring together software engineering researchers and practitioners to discuss the opportunities and challenges of bots in software engineering.
 
