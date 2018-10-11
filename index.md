@@ -1,8 +1,9 @@
 
-<p align="center">
+<div style="text-align:center">
 <h2> <b> Call for Papers <br>
 International Workshop on Bots in Software Engineering <br>
-(BotSE) </b> </h2> </p>
+(BotSE) </b> </h2> 
+</div>
 May xx, 2019, Montreal, Canada. In conjunction with ICSE 2019.<br>
 <a href="https://botse.github.io/2018/">https://botse.github.io/2018/</a>
 
@@ -13,27 +14,42 @@ Papers may address issues along the general themes, including but not limited, t
 
 ## Important Dates
 Papers due:	            month-day, 2019
+
 Author notification:	month-day, 2019
+
 Camera ready:	        month-day, 2019
 
 
 ## Program Committee
 Marco Gerosa - Northern Arizona University
+
 Regina Hebig - University of Gothenburg
+
 David Lo - Singapore Management University
+
 Josh Nichols - GitHub
+
 Chris Parnin - North Carolina State University
+
 Riccardo Scandariato - University of Gothenburg
+
 Lionel Seinturier - University of Lille & Inria Lille
+
 Igor Steinmacher - Northern Arizona University
+
 Margaret-Anne Storey - University of Victoria
+
 Xin Xia - Monash University
+
 Zhenchang Xing - Australian National University
+
 Alexey Zagalsky - University of Victoria
+
 Martin Monperrus - KTH Royal Institute of Tech-nology
 
-##Organizers
+## Organizers
 Emad Shihab — Concordia University
+
 Stefan Wagner– University of Stuttgart 
 
 
