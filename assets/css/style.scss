@@ -3,12 +3,15 @@
 
 @import "{{ site.theme }}";
 
-h1{
+h1.class{
 	margin-bottom: 0rem;
+	margin-top: 0rem;
+	color: red;
 }
 
-h2{
+h2.class{
     margin-top: 0rem;
+    margin-bottom: 0rem;
 }
 
 b{
