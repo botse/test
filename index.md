@@ -1,6 +1,6 @@
 
 <div style="text-align:center">
-<div style="h1.class"><b> Call for Papers </b></h1> </div>
+<div style="h1.class"><b> Call for Papers </b><</div>
 <h2><b> International Workshop on Bots in Software Engineering <br>
 (BotSE)</b></h2>
 May xx, 2019, Montreal, Canada. In conjunction with ICSE 2019.<br>
