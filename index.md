@@ -11,16 +11,17 @@ Bots (short for software robots) are software applications that perform often re
 
 We solicit **4 page, research, experience report and position papers.** Research papers are expected to describe new research results and make contributions to the body knowledge in the area. Experience reports are expected to describe experiences with (amongst other things) the development, deployment, and maintenance of bot-based systems in the software engineering domain. Position papers are expected to discuss controversial issues in the field, or describe interesting or thought provoking ideas that are not yet fully developed. Papers will be reviewed by at least three program committee members. Accepted research and ex-perience report papers will be invited to give a talk to present their findings. Authors of ac-cepted position papers will be invited to give a short lightning talk. 
 Papers may address issues along the general themes, including but not limited, to the follow-ing topics:
--Using bots to derive software requirements and documentation
--Using bots in the context of the reliability and quality of software systems
--Using bots to support software system release and deployment
--Using bots to enhance and support testing & maintenance of software systems
--Supporting and answering developer questions using bots
--Using bots to ensure the safety, security, privacy and trustworthiness of software systems
--Effective processes for the development of bot-based software
--Privacy and ethics issues related to the use of bots in software systems
--Issues in the interaction of bots and developers and other stakeholders
--Experiences using bot frameworks in software systems
+
+- Using bots to derive software requirements and documentation
+- Using bots in the context of the reliability and quality of software systems
+- Using bots to support software system release and deployment
+- Using bots to enhance and support testing & maintenance of software systems
+- Supporting and answering developer questions using bots
+- Using bots to ensure the safety, security, privacy and trustworthiness of software systems
+- Effective processes for the development of bot-based software
+- Privacy and ethics issues related to the use of bots in software systems
+- Issues in the interaction of bots and developers and other stakeholders
+- Experiences using bot frameworks in software systems
 
 ## **Important Dates**
 Papers due:	            month-day, 2019 <br>
