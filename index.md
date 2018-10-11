@@ -12,15 +12,12 @@ Bots (short for software robots) are software applications that perform often re
 We solicit **4 page, research, experience report and position papers.** Research papers are expected to describe new research results and make contributions to the body knowledge in the area. Experience reports are expected to describe experiences with (amongst other things) the development, deployment, and maintenance of bot-based systems in the software engineering domain. Position papers are expected to discuss controversial issues in the field, or describe interesting or thought provoking ideas that are not yet fully developed. Papers will be reviewed by at least three program committee members. Accepted research and ex-perience report papers will be invited to give a talk to present their findings. Authors of ac-cepted position papers will be invited to give a short lightning talk. 
 Papers may address issues along the general themes, including but not limited, to the follow-ing topics:
 
-## Important Dates
-Papers due:	            month-day, 2019
+## **Important Dates**
+Papers due:	            month-day, 2019 <br>
+Author notification:	month-day, 2019 <br>
+Camera ready:	        month-day, 2019 <br>
 
-Author notification:	month-day, 2019
-
-Camera ready:	        month-day, 2019
-
-
-## Program Committee
+## **Program Committee**
 
 Marco Gerosa - Northern Arizona University <br>
 Regina Hebig - University of Gothenburg <br>
@@ -36,46 +33,7 @@ Zhenchang Xing - Australian National University <br>
 Alexey Zagalsky - University of Victoria <br>
 Martin Monperrus - KTH Royal Institute of Technology
 
-## Organizers
+## **Organizers**
 
 Emad Shihab — Concordia University <br>
 Stefan Wagner– University of Stuttgart 
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/botse/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/botse/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
