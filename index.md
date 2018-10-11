@@ -1,9 +1,9 @@
 
 <p align="center">
-# **Call for Papers**
-## **International Workshop on Bots in Software Engineering
-## **(BotSE)**
-May xx, 2019, Montreal, Canada. In conjunction with ICSE 2019.
+<h2> <b> Call for Papers </b></h2><br>
+<h2> <b> International Workshop on Bots in Software Engineering </b> </h2><br>
+<h2> <b> (BotSE) </b> </h2><br>
+May xx, 2019, Montreal, Canada. In conjunction with ICSE 2019.<br>
 <a href="https://botse.github.io/2018/">https://botse.github.io/2018/</a>
 
 </p>
